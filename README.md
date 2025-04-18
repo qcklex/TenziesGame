@@ -1,6 +1,6 @@
 https://qcktenzies.netlify.app/
 
-# Getting Star# Tenzies Game
+# Tenzies Game
 
 Welcome to **Tenzies**, a fun and addictive dice game built with React! The goal is simple: roll the dice, hold your matches, and win by getting all dice to show the same number. Will you beat your best time? 🎲🔥
 
